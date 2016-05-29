@@ -2,12 +2,6 @@ import subprocess
 import os
 import logging
 
-logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s',
-                    level=logging.INFO)
-logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s',
-                    level=logging.WARNING)
-logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s',
-                    level=logging.ERROR)
 
 
 class GENIATagger:

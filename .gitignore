@@ -1,2 +1,4 @@
-./.idea/*
-./.idea/
+.idea/
+.pypirc
+PyGENIATagger/__pycache__
+
